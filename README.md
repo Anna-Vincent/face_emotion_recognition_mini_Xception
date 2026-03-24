@@ -71,10 +71,6 @@ The model works on **48x48 grayscale images**, making it lightweight and efficie
    pip install -r requirements.txt
    ```
 
-4. **Add Your Model:**
-
-   Place your saved Keras model file (e.g., `model.h5`) in the root directory of the project. Ensure the path in `model.py` points to this file.
-
 ## Usage
 
 To run the app, execute the following command in your terminal:
