@@ -8,7 +8,7 @@ The application is implemented using Streamlit, allowing users to either upload 
 
 - [Overview](#overview)
 - [Features](#features)
-- [Tech Stack](#Tech Stack)
+- [Tech Stack](#Tech-Stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
