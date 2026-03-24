@@ -108,11 +108,8 @@ Output: Emotion classification (7 classes)
 
 ## Acknowledgment
 
-This project is based on and inspired by the original work:
-
-https://github.com/sathiyasubramanaya/face_emotion_recognition_mini_Xception
-
-The implementation has been modified, cleaned, and structured for learning and demonstration purposes.
+This project is inspired by an implementation of Mini-Xception for face emotion recognition. 
+The codebase has been modified and structured for learning and demonstration purposes.
 
 ## License
 
