@@ -8,10 +8,12 @@ The application is implemented using Streamlit, allowing users to either upload 
 
 - [Overview](#overview)
 - [Features](#features)
-- [Prerequisites](#prerequisites)
+- [Tech Stack](#Tech Stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Model Information](#Model-Information)
+- [Acknowledgment](#Acknowledgment)
 - [License](#license)
 
 ## Overview
